@@ -8,7 +8,7 @@ function App() {
   async function getProducts() {
     const products = await get('productos');
     setProducts(products);
-    console.log(products);
+    //console.log(products);
   }
 
   useEffect(() => {
