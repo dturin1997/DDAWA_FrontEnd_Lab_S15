@@ -1,0 +1,12 @@
+.App {
+  margin-top: 100px;
+  padding: 0 200px;
+}
+body {
+  background-color: azure;
+}
+.App h1 {
+  text-align: center;
+  color:aquamarine;
+  margin-bottom: 100px;
+}
